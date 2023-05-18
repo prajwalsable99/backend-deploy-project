@@ -4,3 +4,4 @@ joblib==1.2.0
 numpy==1.21.2
 requests==2.27.1
 scikit_learn
+Gunicorn
