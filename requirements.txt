@@ -1,6 +1,6 @@
 Flask==2.0.2
 Flask_Cors==3.0.10
-joblib==1.1.0
+joblib==1.2.0
 numpy==1.21.2
-Gunicorn
-sklearn
+requests==2.27.1
+scikit_learn==1.2.2
